@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
 # Pandas模块全教程
 
 在这个文档聚合大纲中，你将会学到有关Python中的Pandas库的基本知识。学习的范围被限定在浙江省信息技术学科学考/选考的项目里。本文档也将会辅助你复习该内容。
